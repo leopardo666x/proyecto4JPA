@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="ORM" type="javax.sql.DataSource">#Fri Jun 17 20:30:58 CDT 2022
+password=AcGs1HiL6BxniaRl8XDN
+jdbcDriver=com.mysql.cj.jdbc.Driver
+jdbcUrl=jdbc\:mysql\://bdi4d5q7akcgurk3iep5-mysql.services.clever-cloud.com\:3306/bdi4d5q7akcgurk3iep5?zeroDateTimeBehavior\=CONVERT_TO_NULL
+userName=ukbzhzywymwmys3t
+</Resource>
+</resources>
